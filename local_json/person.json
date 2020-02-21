@@ -1,0 +1,34 @@
+[
+    {
+        "name" : "Prakhar Baskotra",
+        "age" : "20",
+        "height" : "5'9\"",
+        "gender" : "Male",
+        "hair_color": "black",
+        "course" : "Cloud Computing"
+    },
+    {
+        "name" : "Aman Yadav",
+        "age" : "23",
+        "height" : "5'5\"",
+        "gender" : "Male",
+        "hair_color": "black",
+        "course" : "Cloud Computing"
+    },
+    {
+        "name" : "Varun Dubey",
+        "age" : "20",
+        "height" : "5'11\"",
+        "gender" : "Male",
+        "hair_color": "Blonde",
+        "course" : "GEN-CSE"
+    },
+    {
+        "name" : "Akshit Saxena",
+        "age" : "20",
+        "height" : "5'6\"",
+        "gender" : "Male",
+        "hair_color": "black",
+        "course" : "Mobile Computing"
+    }
+]
